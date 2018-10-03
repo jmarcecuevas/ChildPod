@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ChildPod'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of ChildPod.'
 
 # This description is used to generate tags and improve search results.
@@ -31,6 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'ChildPod/Classes/**/*'
+  
+  s.swift_version = '4.1'
   
   # s.resource_bundles = {
   #   'ChildPod' => ['ChildPod/Assets/*.png']

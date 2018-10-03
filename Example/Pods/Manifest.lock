@@ -1,0 +1,16 @@
+PODS:
+  - ChildPod (0.1.0)
+
+DEPENDENCIES:
+  - ChildPod (from `../`)
+
+EXTERNAL SOURCES:
+  ChildPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChildPod: d94c0344ffe4220e70dd56d75f4663b6be5949b0
+
+PODFILE CHECKSUM: f6c7f83f98874302106f126b6cc4ccb70ddd7365
+
+COCOAPODS: 1.5.3

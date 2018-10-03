@@ -1,0 +1,22 @@
+{
+  "name": "ChildPod",
+  "version": "0.1.0",
+  "summary": "A short description of ChildPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/marceCuevas16/ChildPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "marceCuevas16": "marce.cuevas16@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/marceCuevas16/ChildPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ChildPod/Classes/**/*"
+}
